@@ -1,0 +1,12 @@
+﻿'week1opdracht1.exe' (Win32): Loaded 'C:\Users\chani\OneDrive\week 1\week1opdracht1\x64\Debug\week1opdracht1.exe'. Symbols loaded.
+'week1opdracht1.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'week1opdracht1.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'week1opdracht1.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'week1opdracht1.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140d.dll'. 
+'week1opdracht1.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbased.dll'. 
+The thread 0x1370 has exited with code 0 (0x0).
+'week1opdracht1.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'week1opdracht1.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+The thread 0x1920 has exited with code 0 (0x0).
+The thread 0x275c has exited with code 0 (0x0).
+The program '[10564] week1opdracht1.exe' has exited with code 0 (0x0).
